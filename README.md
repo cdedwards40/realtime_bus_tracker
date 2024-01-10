@@ -1,6 +1,6 @@
 # Realtime Bus Tracker
 
-A visualization of the realtime locations of buses operated by the Massachusetts Bay Transportation Authority (MBTA).
+A visualization of the realtime locations of buses operated by the Massachusetts Bay Transportation Authority (MBTA) colored by bus status.
 
 ## Installation
 
